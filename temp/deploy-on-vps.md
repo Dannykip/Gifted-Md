@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="254728782591"
+      OWNER_NUMBER="254113457206"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
-      OWNER_NAME = "Gifted"
+      THUMB_IMAGE = "https://www.instagram.com/p/CjnbJ4Pq1tF/?igsh=NTc4MTIwNjQ2YQ=="
+      OWNER_NAME = "DAN"
       PREFIX = .
       WARN_COUNT = 5
       DISABLE_PM = "true"
-      THEME= "Gifted"
+      THEME= "DAN KIPKOECH"
       MODE = "private"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
