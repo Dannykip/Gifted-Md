@@ -18,7 +18,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
-    <img alt="Dan kipkoech" src="https://img.shields.io/youtube/channel/subscribers/KIKOREX " target="_blank" />
+    <img alt="Dan kipkoech" src="https://img.shields.io/youtube/channel/subscribers/https://youtube.com/@kikorex1?si=mzuBb5NhpWCrUjpi" target="_blank" />
   </a>
 
 </p>
