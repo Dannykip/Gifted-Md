@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Dan docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
   </a>
 </p>
     
@@ -18,7 +18,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="Dan kipkoech" src="https://img.shields.io/youtube/channel/subscribers/KIKOREX " target="_blank" />
   </a>
 
 </p>
